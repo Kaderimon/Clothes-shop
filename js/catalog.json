@@ -1,0 +1,62 @@
+{
+	"1":{
+			"path":"../img/osj.png",
+			"name":"Only Skinny Jeans",
+			"cost":"£65.50"
+		},
+	"2":{
+			"path":"../img/nkj.png",
+			"name":"Neck Knitted Jumper",
+			"cost":"£76.25"
+		},
+	"3":{
+			"path":"../img/tnj.png",
+			"name":"Turtle Neck Jumper in Rib",
+			"cost":"£130.25 <span>New</span>"
+		},
+	"4":{
+			"path":"../img/wpc.png",
+			"name":"With Patchwork Crocket",
+			"cost":"£80.60"
+		},
+	"5":{
+			"path":"../img/ljw.png",
+			"name":"Levi's Jeans for women",
+			"cost":"<span>More Colours</span>"
+		},
+	"6":{
+			"path":"../img/bbp.png",
+			"name":"Boyfriends T-shirt with Bohemian Print",
+			"cost":"£120.00 <span>-25%</span> £90.00"
+		},
+	"7":{
+			"path":"../img/cb.png",
+			"name":"Colour Block",
+			"cost":"£550.50"
+		},
+	"8":{
+			"path":"../img/mfk.png",
+			"name":"Monki Festival Knitted",
+			"cost":"£24.75"
+		},
+	"9":{
+			"path":"../img/oc.png",
+			"name":"Oversized Cardigan",
+			"cost":"£90.00"
+		},
+	"10":{
+			"path":"../img/psj.png",
+			"name":"Paul & Joe Sister Jumper with Neon Trims",
+			"cost":"£19.75 <span>New</span>"
+		},
+	"11":{
+			"path":"../img/obkj.png",
+			"name":"Only Busted Knee Jean",
+			"cost":"£140.50"
+		},
+	"12":{
+			"path":"../img/bbp2.png",
+			"name":"Boyfriends T-shirt with Bohemian Print",
+			"cost":"£85.75"
+		}
+}

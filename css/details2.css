@@ -1,0 +1,18 @@
+.details-left__main-photo{
+	background: url(../img/item2_descr_full.png) no-repeat;
+	background-size: cover;
+}
+
+.thumb-bg1{
+	background: url(../img/thumb1_1.png);
+	background-size: cover;
+	z-index: 1;
+}
+.thumb-bg2{
+	background: url(../img/thumb1_2.png) center;
+	background-size: cover;
+}
+.thumb-bg3{
+	background: url(../img/thumb1_3.png);
+	background-size: cover;
+}
